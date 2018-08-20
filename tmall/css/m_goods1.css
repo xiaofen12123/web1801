@@ -1,0 +1,41 @@
+/*
+* @Author: Administrator
+* @Date:   2018-08-03 23:42:15
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-08-04 09:18:08
+*/
+
+#main > div {
+	width: 100%;
+	min-width: 1230px;
+}
+#l_head {
+	height: 164px;
+	background-color: #ccc;
+}
+#y_slide {
+	height: 536px;
+	background-color: pink;
+}
+#y_brand {
+	height: 745px;
+	background-color: red;
+}
+#m_tmall {
+	height: 1362px;
+	background-color: yellow;
+}
+#m_goods1 {
+	height: 3725px;
+	background-color: orange;
+}
+#x_goods2 {
+	height: 6728px;
+	background-color: purple;
+}
+#x_footer {
+	height: 653px;
+	background-color: blue;
+}
+
+/* 开始------------------------------------------------- */
